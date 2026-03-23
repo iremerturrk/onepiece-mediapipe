@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ☠️ ONE PIECE MEDIAPIPE
+# ☠️ ONE PIECE MEDIAPIPE ☠️
 
 ### _Real-Time Pose Detection meets the Grand Line_
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌊 What Is This?
+## What Is This?
 
 MediaPipe tracks your every move in real-time — and the moment you strike a pose worthy of the **Straw Hat Crew**, the program fires back with iconic voice lines straight from One Piece.
 
@@ -24,7 +24,7 @@ MediaPipe tracks your every move in real-time — and the moment you strike a po
 
 ---
 
-## 🏴‍☠️ Characters & Triggers
+## 🏴‍☠️ Characters & Triggers 🏴‍☠️
 
 | Character | Pose Trigger             | Reaction |
 |-----------|--------------------------|----------|
@@ -35,7 +35,7 @@ MediaPipe tracks your every move in real-time — and the moment you strike a po
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ```
 [Webcam] → [OpenCV Frame] → [MediaPipe 33 Landmarks] → [Pose Matcher] → [REACTION!]
@@ -48,17 +48,17 @@ MediaPipe tracks your every move in real-time — and the moment you strike a po
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
-- 🐍 **Python 3**
-- 📷 **OpenCV** — frame capture & visual rendering
-- 🦴 **MediaPipe** — real-time body landmark detection
-- 🔢 **NumPy** — landmark math & pose logic
-- 🎵 **Pygame** — audio playback for voice reactions
+-  **Python 3**
+- **OpenCV** — frame capture & visual rendering
+- **MediaPipe** — real-time body landmark detection
+-  **NumPy** — landmark math & pose logic
+- **Pygame** — audio playback for voice reactions
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 onepiece-mediapipe/
@@ -75,7 +75,7 @@ onepiece-mediapipe/
 
 ---
 
-## 🚀 Get Started
+## Get Started
 
 ```bash
 # Install dependencies
@@ -89,7 +89,7 @@ python onepiece_pose/main.py
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] More Straw Hat crew members with unique pose triggers
 - [ ] ML-powered pose classification (beyond rule-based matching)
@@ -99,7 +99,7 @@ python onepiece_pose/main.py
 
 ---
 
-## 🎌 Visual Effects
+## Visual Effects
 
 When a pose is recognized, the system can trigger:
 
